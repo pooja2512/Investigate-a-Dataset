@@ -1,25 +1,31 @@
-# DAND_term1_project_Investigate_Dataset
-This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year.
-
-
-# No-show-apppointment
-This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
+# TMDb Dataset
 
 ## Overview
-This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
+This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year.
 
-Key indicators were:
-- ScheduledDay tells us on what day the patient set up their appointment.
-- Neighborhood indicates the location of the hospital.
-- Age = How old is the patient.
-- Hipertension = True or False
-- Diabetes= True or False
-- Alcoholism = True or False
-- Handcap = True or False
-- SMS_received = 1 or more messages sent to the patient.
-- No-show = True or False.
-- Scholarship indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
-- ‘Bolsa Família’ It is a social welfare program of the Brazilian government, part of the Fome Zero network of federal assistance       programs.Bolsa Família provides financial aid to poor Brazilian families
+Brief Description of each column in the dataset:
+
+1.id - Unique id's for each row
+2.imdb_id - System generated unique id
+3.popularity - popularity score
+4.budget - budget in dollars
+5.revenue - revenue in dollars
+6.original_title - Movie title
+7.cast - cast performed in movie
+8.homepage - website link of movie
+9.director - director name
+10.tagline - tagline of movie
+11.keywords - words used to give significant idea
+12.overview - general review of movie
+13.runtime - movie duration in seconds
+14.genres - categories of movie
+15.production_companies - company name which manages a movie process from start to finish
+16.release_date - movie releasing date
+17.vote_count - votes given by viewers
+18.vote_average - average votes given by viewers
+19.release_year - movie releasing year
+20.budget_adj-budget in 2010 dollars,accounting for inflation
+21.revenue_adj -revenue in 2010 dollars,accounting for inflation
 
 The project involved data assessment and cleaning, performing EDA and drawing conclusions from the data.
 
@@ -30,13 +36,35 @@ The project involved data assessment and cleaning, performing EDA and drawing co
 - Logistic Regression
 
 ## Technologies Used
-- Python, Numpy, Pandas, Matplotlib, scikit-learn
+- Python, Numpy, Pandas, Matplotlib,Seaborn
 - Jupyter Notebook
 
 ## Key Findings
-- Hypertension is observed more followed by diabetes,Alcoholism,Handicap.
-- Senior people (age above 50) are most likely suffering from hypertension and child are most likely handicap.
-- More number of female are suffering from Hypertension and diabetes whereas male are more likely to suffering from alcoholism.
-- Irrespective of gender 80% of people visit to their scheduled appointments & that's a good sign It shows people do care about their health issues.
-- What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
-   Disease,age group,SMS,scholarship,month,weekday are the top paramenters in predicting if patient will show up on the scheduled           appointment.
+As per my overall analysis I have found
+
+Trend of releasing movies has increased over the years.
+
+Frequent Runtimes are from 92 sec to 150 sec
+
+Drama,Action,Thriller,Romance,Horror are most popular geners
+
+By popularity Score
+
+Most Popular Movie is Jurrassic World
+
+Most Famous Genre is Drama
+Highest gross Profit earned
+
+Director Steven Spielberg
+
+Movie Star Wars
+
+Cast Harrison Ford
+
+Production Company Twentieth Century Fox Film Corporation
+
+By Average Votes
+
+Popular Movie The Jinx:The Life and Deaths of Robert Durst
+
+Popular Cast Tina Weymouth

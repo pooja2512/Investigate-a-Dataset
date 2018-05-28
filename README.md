@@ -62,13 +62,13 @@ The project involved data assessment and cleaning, performing EDA and drawing co
 ## Key Findings
 As per my overall analysis I have found
 
--Trend of releasing movies has increased over the years.
+- Trend of releasing movies has increased over the years.
 
 Frequent Runtimes are from 92 sec to 150 sec
 
 Drama,Action,Thriller,Romance,Horror are most popular geners
 
--By popularity Score
+- By popularity Score
 
 Most Popular Movie is Jurrassic World
 
@@ -83,7 +83,7 @@ Cast Harrison Ford
 
 Production Company Twentieth Century Fox Film Corporation
 
--By Average Votes
+- By Average Votes
 
 Popular Movie The Jinx:The Life and Deaths of Robert Durst
 

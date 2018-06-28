@@ -4,6 +4,8 @@ This project was completed as part of the course requirements of Udacity's [Data
 ## Overview
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year.
 
+[View the Project Here]()
+
 Brief Description of each column in the dataset:
 
 1.id - Unique id's for each row
@@ -49,12 +51,6 @@ Brief Description of each column in the dataset:
 21.revenue_adj -revenue in 2010 dollars,accounting for inflation
 
 The project involved data assessment and cleaning, performing EDA and drawing conclusions from the data.
-
-### Statistical Analysis
-- Examinations of central tendencies and spread
-- Data visualization
-- Conditional Probability & Bayes Rule
-- Logistic Regression
 
 ## Technologies Used
 - Python, Numpy, Pandas, Matplotlib,Seaborn

@@ -1,5 +1,5 @@
 # TMDb Dataset
-This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://classroom.udacity.com) certification
+This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://in.udacity.com/) certification
 
 ## Overview
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year.

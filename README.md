@@ -5,6 +5,8 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 [View the Project Here](https://github.com/pooja2512/Investigate-a-Dataset/blob/master/EDA%20on%20TMDB%20movies.ipynb)
 
+old version created under Udacity Nanodegree [View Here](https://github.com/pooja2512/Investigate-a-Dataset/blob/master/Investigate_TMDb_Dataset.ipynb)
+
 The project involved data assessment and cleaning, performing EDA and drawing conclusions from the data.
 
 ## Technologies Used
